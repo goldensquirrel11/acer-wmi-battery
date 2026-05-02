@@ -38,6 +38,7 @@ Users have reported that the driver works on the following Acer laptops:
 - Predator
   - Helios Neo 16 (PHN16-71) https://github.com/frederik-h/acer-wmi-battery/issues/59
   - Triton 300 SE https://github.com/frederik-h/acer-wmi-battery/issues/67
+  - Helios 300 (PH315-53) https://github.com/frederik-h/acer-wmi-battery/issues/145
 - Swift
   - 3 SF314-34 Author's own device
   - 3 SF314-43 https://github.com/frederik-h/acer-wmi-battery/issues/83
